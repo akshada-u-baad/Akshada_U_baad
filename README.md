@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<img align="right" alt="coding" width="400" scr="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fanushkayadav&psig=AOvVaw1Zd2707OV5X9toizQNhYIm&ust=1692977950923000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMC0h7zQ9YADFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" scr="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fanushkayadav&psig=AOvVaw1Zd2707OV5X9toizQNhYIm&ust=1692977950923000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMC0h7zQ9YADFQAAAAAdAAAAABAE"/>
 
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/02_baad?t=t5tmdc-2pghs150sur697g&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/02_baad?t=t5tmdc-2pghs150sur697g&s=09" height="30" width="40" /></a>
