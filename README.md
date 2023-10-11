@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshada Baad</h1>
 <h3 align="center">A passionate Software Devloper from India</h3>
 
-- 🌱 I’m currently learning **Software Testing**
+- 🌱 I’m currently learning **Full Stack Development Course**
 
 - 📫 How to reach me **akshadabaad7878@gmail.com**
 
